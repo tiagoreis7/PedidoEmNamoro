@@ -1,6 +1,6 @@
 import streamlit as st
 
-frase = 'ENCALHADA'
+frase = 'EU ADORO VOCÊ'
 
 
 def img():

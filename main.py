@@ -1,6 +1,6 @@
 import streamlit as st
 
-frase = 'ADORO VOCÊ'
+frase = 'NAMORA COMIGO'
 
 
 def img():
